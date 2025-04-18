@@ -99,6 +99,7 @@ dependencies {
     implementation fg.deobf("curse.maven:botania-225643:6366547")
     runtimeOnly fg.deobf("curse.maven:curios-309927:6418456")
     runtimeOnly fg.deobf("curse.maven:patchouli-306770:6164575")
+    runtimeOnly fg.deobf("curse.maven:gregtechceu-modern-890405:6254458")
 }
 
 tasks.named('processResources', ProcessResources).configure {
