@@ -10,6 +10,9 @@ import org.slf4j.LoggerFactory;
 import reinforcedae.definition.RAEBlocks;
 import reinforcedae.definition.RAECreativeTab;
 import reinforcedae.definition.RAEItems;
+import reinforcedae.integration.appbot.AppBotItems;
+import reinforcedae.integration.appmek.AppMekItems;
+import reinforcedae.integration.arseng.ArsEngItems;
 
 @Mod(ReinforcedAE.MODID)
 public final class ReinforcedAE {
@@ -28,5 +31,9 @@ public final class ReinforcedAE {
         RAEItems.initialize(modEventBus);
         RAEBlocks.initialize(modEventBus);
         RAECreativeTab.initialize(modEventBus);
+
+        AppBotItems.initialize(modEventBus);
+        AppMekItems.initialize(modEventBus);
+        ArsEngItems.initialize(modEventBus);
     }
 }

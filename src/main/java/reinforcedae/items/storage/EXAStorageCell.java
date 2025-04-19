@@ -60,7 +60,7 @@ public class EXAStorageCell extends AEBaseItem implements IBasicCellItem, AETool
 
     @Override
     public long getBytesPerType(ItemStack cellItem) {
-        return 262144;
+        return Integer.MAX_VALUE;
     }
 
     @Override
