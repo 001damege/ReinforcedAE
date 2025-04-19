@@ -44,6 +44,7 @@ public class LangGen {
             addItem(CELL_COMPONENT_2748P, "2748P ME Storage Component");
             addItem(CELL_COMPONENT_1E, "1E ME Storage Component");
             addItem(CELL_COMPONENT_4E, "4E ME Storage Component");
+            addItem(CELL_COMPONENT_9E, "9E ME Storage Component");
             addItem(REINFORCED_ITEM_CELL_HOUSING, "Reinforced Item Cell Housing");
             addItem(REINFORCED_FLUID_CELL_HOUSING, "Reinforced Fluid Cell Housing");
             addItem(COMPRESSED_ENERGY_CARD, "Compressed Energy Card");
@@ -79,6 +80,7 @@ public class LangGen {
             addItem(CELL_COMPONENT_2748P, "2748P MEストレージコンポーネント");
             addItem(CELL_COMPONENT_1E, "1E MEストレージコンポーネント");
             addItem(CELL_COMPONENT_4E, "4E MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_9E, "9E MEストレージコンポーネント");
             addItem(REINFORCED_ITEM_CELL_HOUSING, "強化されたMEアイテムセル筐体");
             addItem(REINFORCED_FLUID_CELL_HOUSING, "強化されたME液体セル筐体");
             addItem(COMPRESSED_ENERGY_CARD, "圧縮エナジーカード");

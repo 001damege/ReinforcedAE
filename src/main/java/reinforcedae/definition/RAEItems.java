@@ -34,6 +34,7 @@ public final class RAEItems {
     public static final RegistryObject<Item> CELL_COMPONENT_2748P = ITEMS.register("cell_component_2748p", () -> new StorageComponentItem(p(), 274877906944.0)); // 2748兆
     public static final RegistryObject<Item> CELL_COMPONENT_1E = ITEMS.register("cell_component_1e", () -> new StorageComponentItem(p(), 1099511627776.0)); // 1京
     public static final RegistryObject<Item> CELL_COMPONENT_4E = ITEMS.register("cell_component_4e", () -> new StorageComponentItem(p(), 4398046511104.0)); // 4京
+    public static final RegistryObject<Item> CELL_COMPONENT_9E = ITEMS.register("cell_component_9e", () -> new StorageComponentItem(p().rarity(Rarity.EPIC), 17592186044416.0)); // 9京なはず
 
     public static final RegistryObject<Item> REINFORCED_ITEM_CELL_HOUSING = ITEMS.register("reinforced_item_cell_housing", () -> new Item(p().rarity(Rarity.EPIC)));
     public static final RegistryObject<Item> REINFORCED_FLUID_CELL_HOUSING = ITEMS.register("reinforced_fluid_cell_housing", () -> new Item(p().rarity(Rarity.EPIC)));
