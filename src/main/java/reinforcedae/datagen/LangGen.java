@@ -27,11 +27,11 @@ public class LangGen {
         @Override
         protected void addTranslations() {
             add(RAECreativeTab.TAB_ID, "Reinforced AE");
-            addItem(CELL_COMPONENT_1024M, "1024M ME Storage Component");
-            addItem(CELL_COMPONENT_4096M, "4096M ME Storage Component");
-            addItem(CELL_COMPONENT_16384M, "16384M ME Storage Component");
-            addItem(CELL_COMPONENT_65536M, "65536M ME Storage Component");
-            addItem(CELL_COMPONENT_262144M, "262144M ME Storage Component");
+            addItem(CELL_COMPONENT_10G, "10G ME Storage Component");
+            addItem(CELL_COMPONENT_40G, "40G ME Storage Component");
+            addItem(CELL_COMPONENT_163G, "163G ME Storage Component");
+            addItem(CELL_COMPONENT_655G, "655G ME Storage Component");
+            addItem(CELL_COMPONENT_2621G, "2621G ME Storage Component");
             addItem(CELL_COMPONENT_1T, "1T ME Storage Component");
             addItem(CELL_COMPONENT_4T, "4T ME Storage Component");
             addItem(CELL_COMPONENT_16T, "16T ME Storage Component");
@@ -39,12 +39,11 @@ public class LangGen {
             addItem(CELL_COMPONENT_268T, "268T ME Storage Component");
             addItem(CELL_COMPONENT_1P, "1P ME Storage Component");
             addItem(CELL_COMPONENT_4P, "4P ME Storage Component");
-            addItem(CELL_COMPONENT_171P, "171P ME Storage Component");
-            addItem(CELL_COMPONENT_687P, "687P ME Storage Component");
-            addItem(CELL_COMPONENT_2748P, "2748P ME Storage Component");
-            addItem(CELL_COMPONENT_1E, "1E ME Storage Component");
-            addItem(CELL_COMPONENT_4E, "4E ME Storage Component");
-            addItem(CELL_COMPONENT_9E, "9E ME Storage Component");
+            addItem(CELL_COMPONENT_16P, "16P ME Storage Component");
+            addItem(CELL_COMPONENT_67P, "67P ME Storage Component");
+            addItem(CELL_COMPONENT_268P, "268P ME Storage Component");
+            addItem(CELL_COMPONENT_1099P, "1099P ME Storage Component");
+            addItem(CELL_COMPONENT_4398P, "4298P ME Storage Component");
             addItem(REINFORCED_ITEM_CELL_HOUSING, "Reinforced Item Cell Housing");
             addItem(REINFORCED_FLUID_CELL_HOUSING, "Reinforced Fluid Cell Housing");
             addItem(COMPRESSED_ENERGY_CARD, "Compressed Energy Card");
@@ -63,11 +62,11 @@ public class LangGen {
         @Override
         protected void addTranslations() {
             add(RAECreativeTab.TAB_ID, "Reinforced AE");
-            addItem(CELL_COMPONENT_1024M, "1024M MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_4096M, "4096M MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_16384M, "16384M MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_65536M, "65536M MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_262144M, "262144M MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_10G, "10G MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_40G, "40G MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_163G, "163G MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_655G, "655G MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_2621G, "2621G MEストレージコンポーネント");
             addItem(CELL_COMPONENT_1T, "1T MEストレージコンポーネント");
             addItem(CELL_COMPONENT_4T, "4T MEストレージコンポーネント");
             addItem(CELL_COMPONENT_16T, "16T MEストレージコンポーネント");
@@ -75,12 +74,11 @@ public class LangGen {
             addItem(CELL_COMPONENT_268T, "268T MEストレージコンポーネント");
             addItem(CELL_COMPONENT_1P, "1P MEストレージコンポーネント");
             addItem(CELL_COMPONENT_4P, "4P MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_171P, "171P MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_687P, "687P MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_2748P, "2748P MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_1E, "1E MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_4E, "4E MEストレージコンポーネント");
-            addItem(CELL_COMPONENT_9E, "9E MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_16P, "16P MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_67P, "67P MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_268P, "268P MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_1099P, "1099P MEストレージコンポーネント");
+            addItem(CELL_COMPONENT_4398P, "4298P MEストレージコンポーネント");
             addItem(REINFORCED_ITEM_CELL_HOUSING, "強化されたMEアイテムセル筐体");
             addItem(REINFORCED_FLUID_CELL_HOUSING, "強化されたME液体セル筐体");
             addItem(COMPRESSED_ENERGY_CARD, "圧縮エナジーカード");
